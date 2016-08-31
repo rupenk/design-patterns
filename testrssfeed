@@ -21,10 +21,8 @@
 <itunes:image>
 http://storage.googleapis.com/hamropatro-storage/assets/5769928858664960/images/79c487e5-8d11-4e7a-9673-64ae73870917.jpg
 </itunes:image>
-<itunes:category>
-<itunes:category>Art</itunes:category>
-</itunes:category>
-<subcategory>Literature</subcategory>
+<itunes:category text="News"/>
+<itunes:category text="Health"/>
 <mediaRating>0</mediaRating>
 <item>
 <title>स्वच्छता बोल्छ</title>
