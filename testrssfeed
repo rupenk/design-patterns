@@ -18,9 +18,7 @@
 <itunes:email>saahitya@hamropatro.com</itunes:email>
 </itunes:owner>
 <itunes:explicit>false</itunes:explicit>
-<itunes:image>
-http://storage.googleapis.com/hamropatro-storage/assets/5769928858664960/images/79c487e5-8d11-4e7a-9673-64ae73870917.jpg
-</itunes:image>
+<itunes:image href="http://storage.googleapis.com/hamropatro-storage/assets/5769928858664960/images/79c487e5-8d11-4e7a-9673-64ae73870917.jpg" />
 <itunes:category text="News"/>
 <itunes:category text="Health"/>
 <mediaRating>0</mediaRating>
